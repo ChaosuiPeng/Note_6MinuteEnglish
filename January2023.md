@@ -11,7 +11,7 @@ Someone's immersion in a subject is their complete involvement in it.
 Proactive actions are intended to cause changes, rather than just reacting to change.    
 *e.g. Usually it's puttering that can be proactive and useful, increasing our "perceived control".*
                 
-**proactive**       皮质醇
+**cortisol**       皮质醇
 
 **solace**          慰藉  
 Solace is a feeling of comfort that makes you feel less sad.
