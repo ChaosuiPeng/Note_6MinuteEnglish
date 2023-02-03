@@ -1,12 +1,12 @@
 # 如何与遗憾共存
 
-quash /kwɒʃ/ to take action to stop sth from continuing 制止；阻止；平息 [SYN] suppress
+quash /kwɒʃ/ to take action to stop sth from continuing 制止；阻止；平息 [SYN] suppress 
 • The rumours were quickly quashed. 流言很快被制止了。
 
-eminently adv. /ˈemɪnəntli/ 
-( used to emphasize a positive quality 强调良好品质) ( formal ) very; extremely 非常；特别；极其
-• She seems eminently suitable for the job. 
-• It can be an eminently useful emotion.
+eminently adv. /ˈemɪnəntli/  
+( used to emphasize a positive quality 强调良好品质) ( formal ) very; extremely 非常；特别；极其 
+• She seems eminently suitable for the job.  
+• It can be an eminently useful emotion. 
 
 get up the courage 鼓起勇气
 • I couldn't find her when I got up the courage.
