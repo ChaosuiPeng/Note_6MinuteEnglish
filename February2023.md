@@ -8,6 +8,13 @@ eminently adv. /ˈemɪnəntli/
 • She seems eminently suitable for the job.  
 • It can be an eminently useful emotion. 
 
+entertain V-T If you entertain an idea or suggestion, you allow yourself to consider it as possible or as worth thinking about seriously. 心存
+• How foolish I am to entertain doubts.
+• They found that the children who had developed a sense of regret were much more likely to wait for the bigger reward, compared to the children who did not yet enteretain the emotion.  
+
+disclosure 接受
+
+
 get up the courage 鼓起勇气
 • I couldn't find her when I got up the courage.
 
@@ -37,7 +44,7 @@ subdue the temptation to go with the immediate pleasure 抑制住追求眼前快
 put off 延迟
 • put off the pleasure of playing a computer game to study for exams
 
-get a place at a good university
+get a place at a good university 进入一所好的大学
 
 in haste 匆忙地
 • If we made one decision in haste, the feeling of regret ensures that we consider a wider range of information in the future.
@@ -48,4 +55,9 @@ think rationally 理性思考
 cope with 应对…的方法
 • His research offers ways for us to cope with the regrets that we already have.
 
-disclosure 接受
+suppress the feeling 抑制（某种）感觉
+
+regulate the emotion 调节（某种）情绪
+
+view it more analytically 更有分析性地看待（某件事）
+• When we keep painful feelings bottled up, they can fester, but talking through the situation helps us to view it more analytically.
