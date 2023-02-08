@@ -2,6 +2,7 @@
 
 quash /kwɒʃ/ to take action to stop sth from continuing 制止；阻止；平息 [SYN] suppress 
 • The rumours were quickly quashed. 流言很快被制止了。
+• Regret is often seen as a purely undesirabl feeling - one that we should quash whenever possible.
 
 eminently adv. /ˈemɪnəntli/  
 ( used to emphasize a positive quality 强调良好品质) ( formal ) very; extremely 非常；特别；极其 
@@ -20,8 +21,6 @@ self-critical 自我批评的人
 
 self-criticism 自我批评
 
-self-
-
 ---
 
 get up the courage 鼓起勇气
@@ -32,6 +31,9 @@ wallow in negative emotions 沉浸在消极情绪中
 
 undesirable feeling 不受欢迎的感觉
 • Regret is often seen as a purely undesirable feeling.
+
+eliminate regrests in my life 消除我生命中的遗憾
+• I really want to eliminate regrets in my life.
 
 one mechanism for doing something 做某事的一种机制
 • It's one mechanism for learning how to improve your decision-making.
