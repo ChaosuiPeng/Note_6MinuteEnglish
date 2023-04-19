@@ -22,7 +22,7 @@ And I'm so grateful to them for the **incredible job** they do.
 
 And that's why we worked really hard to find a way to come to what I thought was a reasonable and fair settlement on pay.
 
-And it represented about an 8% increase for most teachers, around a 13% increase for new teachers.
+And **it represented about an 8% increase for** most teachers, **around a 13% increase for** new teachers.
 
 Obviously, I'm disappointed.
 
