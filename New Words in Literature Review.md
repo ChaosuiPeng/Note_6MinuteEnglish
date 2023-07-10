@@ -14,3 +14,5 @@ A miscellaneous group consists of many different kinds of things or people that 
 psychopharmacological 心理药理学的
 
 heterogeneity n. 异质性，非均匀性
+
+suicidal ideation 自杀观念
