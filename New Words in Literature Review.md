@@ -4,7 +4,7 @@ substance abuse 药物滥用（药物、酒精）
 
 exemplar  N-COUNT 范例 
 An exemplar is someone or something that is considered to be so good that they should be copied or imitated. 
-They viewed their new building as an exemplar of taste.
+They viewed their new building as an exemplar of taste. 
 他们将自己的新建筑视为一个品味的典范。
 
 miscellaneous 
